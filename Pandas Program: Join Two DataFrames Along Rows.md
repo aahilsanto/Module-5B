@@ -38,7 +38,7 @@ print(con)
 
 ## Output
 
-![439329798-26df033a-9708-4c01-8739-4d60e35497e9](https://github.com/user-attachments/assets/aea95023-4f74-442b-a871-310dd9b6f825)
+![image](https://github.com/user-attachments/assets/b6fde11b-e4e0-420d-ab7b-68041405ec8c)
 
 ## Result
 
