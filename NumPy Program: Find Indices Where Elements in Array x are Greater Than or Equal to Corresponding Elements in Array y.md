@@ -16,12 +16,13 @@ To write a Python program using **NumPy** that finds the indices where elements 
 
 ```
 import numpy as np
+
 x=np.array(eval(input()))
 y=np.array(eval(input()))
-great=np.where(x>y)
-equal=np.where(x==y)
-print(great)
-print(equal)
+gt=np.where(x>y)
+eq=np.where(x==y)
+print(gt)
+print(eq)
 ```
 
 ## Output
